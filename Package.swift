@@ -18,8 +18,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "xcode-selective-test",
-            url: "https://github.com/fxwx23/XcodeSelectiveTesting/releases/download/0.0.0/xcode-selective-test.artifactbundle.zip",
-            checksum: "fcea0fbc62b91e7bea2e4cb120929d753d22054866b6bab758e1057f99e40b98"
-        ),
+            url: "https://github.com/mikeger/XcodeSelectiveTesting/releases/download/0.9.4/xcode-selective-test.artifactbundle.zip",
+            checksum: "5814465535721294bb46a488d63fa0f2eb989428495bfb4c7b294b0b0eae53af"
+        )
     ]
 )
